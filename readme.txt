@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: abhi1441,raj_prince
 Donate link: mailto:abhi.sogga144@gmail.com
-Tags: lost, widgets, migration,website, move, site migration, database, changes, restore, recover, find.
+Tags: lost, widgets, migration, website, move, site migration, database, disappear, wordpress, custom widgets, changes, restore, recover, find.
 Requires at least: 3.5
 Tested up to: 4.1.1
 License: GPLv2 or later
