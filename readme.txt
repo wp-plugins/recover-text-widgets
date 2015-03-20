@@ -18,10 +18,8 @@ to text widget in the database.
 
 This section describes how to install the plugin and get it working.
 
-e.g.
-
 1. Upload 'recover-text-widgets' folder to the `/wp-content/plugins/` directory or Upload zip file from wp-admin.
-1. Activate the plugin through the 'Plugins' menu in WordPress
+2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
 
