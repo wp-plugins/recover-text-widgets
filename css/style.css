@@ -1,0 +1,24 @@
+						/****************************************************
+						*********************** CUSTOM CSS ******************
+						*************************** FOR *********************
+						************************** PLUGIN *******************
+						*****************************************************/
+
+.heading { margin-bottom: 20px;background-color: #0074a2;color: #ffffff;}
+.heading h1{padding-left:40px;}
+
+.rcvr-pg { margin: 2%;width:80%;}
+.rcvr-pg a {margin-top:20px;}
+.rcvr-pg div{float:left;width:100%;}
+.top  p{ display:inline-block;float:left;width:40%;margin-left:25px;font-size:16px;}
+.bottom { margin-top:20px;}
+
+.bottom input[type="button"] {  background-color: #0074a2;
+    color: #ffffff;    font-size: 16px;    font-weight: bold;    height: 50px;    width: 151px; cursor:pointer; }
+.RA-ajax-response{display:block;}
+.ra-alert {color:#D54E21}
+
+.alert-success, .alert-danger { font-size: 14px !important; }
+.alert-success { background-color: #dff0d8; border-color: #d6e9c6; color: #3c763d;}
+.alert {  border-radius: 4px; margin-bottom: 20px; padding: 15px; }
+.error {color: #a94442; float: right; font-size: 12px; margin: 0;  text-align: left; width: 65%;} 
